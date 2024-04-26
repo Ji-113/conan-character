@@ -1,0 +1,16 @@
+{
+  "name": "名探偵コナンキャラクター辞典",
+  "short_name": "名探偵コナンキャラクター辞典",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "icons": [
+    {
+      "src": "./images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+
