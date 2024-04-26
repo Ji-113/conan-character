@@ -8,9 +8,10 @@ const urlsToCache = [
   './pages/b.html',
   './pages/c.html',
   './css/style.css',
-  './images/a.jpg',
-  './images/b.jpg',
-  './images/c.jpg',
+  './images/コナン最高.jpg',
+  './images/slide01.jpg',
+  './images/favicon.ico',
+  './images/slide01.avif'
 ];
 
 self.addEventListener('install', (event) => {
