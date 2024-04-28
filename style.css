@@ -1,10 +1,12 @@
-html,body {
-  display: inline-block;
-  font-size: 28px;
-  font-family: "Zen Old Mincho", sans-serif;
-  font-weight: bold;
-  margin:0 auto 5%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+html, body {
+  font-family: 'Zen Old Mincho','serif','ＭＳ Ｐ明朝';
+  font-size: 16px;
+  background-color: #F0F8FF;
 }
-  
+
+h1 {
+  color: #00FF7F;
+  text-align: center;
+  font-size: 2rem;
+  margin: 3rem;
+}
