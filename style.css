@@ -4,7 +4,6 @@ html,body {
   font-family: "Zen Old Mincho", sans-serif;
   font-weight: bold;
   margin:0 auto 5%;
-  background: linear-gradient(180deg, #FF0000 0%, #FFA500 40%, #FFFF00 80%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
