@@ -4,7 +4,7 @@ html, body {
   background-color: #F0F8FF;
 }
 
-h1 {
+#title {
   color: #00FF7F;
   text-align: center;
   font-size: 2rem;
