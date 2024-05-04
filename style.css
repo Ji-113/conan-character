@@ -91,7 +91,8 @@ html, body {
 
 #main{
 ul{
- display: flex;
+  padding-left:0
+  display: flex;
 }
 
 li{
