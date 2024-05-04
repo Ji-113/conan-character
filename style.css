@@ -90,8 +90,11 @@ html, body {
 }
 
 #main{
+ul{
+ display: flex;
+}
+
 li{
-  display: inline-block;
   list-style: none;
 }
 }
