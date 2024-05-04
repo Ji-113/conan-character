@@ -99,4 +99,8 @@ li{
   float: left;
   list-style: none;
 }
+
+h3{
+  text-align: center;
+}
 }
