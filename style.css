@@ -89,7 +89,9 @@ html, body {
     text-decoration: none;
 }
 
+#main{
 li{
   display: inline-block;
   list-style: none;
+}
 }
