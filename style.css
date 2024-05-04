@@ -95,6 +95,7 @@ ul{
 }
 
 li{
-    float: left;
+  float: left;
+  list-style: none;
 }
 }
