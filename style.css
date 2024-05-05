@@ -4,7 +4,7 @@ html, body {
   background-color: #F0F8FF;
 }
 
-#header {
+#header__inner {
   display: flex;
   a{
   color: #000000
