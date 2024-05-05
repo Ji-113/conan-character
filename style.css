@@ -7,8 +7,8 @@ html, body {
 #hhh {
 #js-hamburger {
   cursor:pointer;
-  margin-left: auto;
-  margin-right: 0;
+  margin-left: 0;
+  margin-right: auto;
 }
 
 a {
