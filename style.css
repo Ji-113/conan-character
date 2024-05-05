@@ -5,11 +5,16 @@ html, body {
 }
 
 #hhh {
-a {
-font-family: 'Zen Old Mincho','serif','ＭＳ Ｐ明朝';
-text-decoration: none;
-background-color: #ffffff;
+#js-hamburger {
+  cursor:pointer
 }
+
+a {
+  font-family: 'Zen Old Mincho','serif','ＭＳ Ｐ明朝';
+  text-decoration: none;
+  background-color: #ffffff;
+}
+
 .hamburger {
     display: block;
     height: 60px;
