@@ -7,7 +7,7 @@ html, body {
 #header__inner {
   display: flex;
   a{
-  color: #000000
+  color: #000000;
   }
 }
 
