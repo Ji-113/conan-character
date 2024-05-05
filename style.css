@@ -6,9 +6,9 @@ html, body {
 
 #hhh {
 #js-hamburger {
-  cursor:pointer
-  margin-left: auto
-  margin-right: 0
+  cursor:pointer;
+  margin-left: auto;
+  margin-right: 0;
 }
 
 a {
@@ -288,5 +288,6 @@ a{
 }
 
 #charactor {
-  margin: auto;
+  margin-left: 0;
+  margin-right: 0;
 }
