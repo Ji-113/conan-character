@@ -6,6 +6,9 @@ html, body {
 
 #header {
   display: flex;
+  h2{
+  color: #000000
+  }
 }
 
 #hhh {
