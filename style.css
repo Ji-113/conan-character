@@ -6,7 +6,7 @@ html, body {
 
 #header {
   display: flex;
-  h2{
+  a{
   color: #000000
   }
 }
