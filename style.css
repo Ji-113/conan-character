@@ -293,7 +293,6 @@ a{
 }
 
 #charactor {
-  width: 95%
-  margin-left: 0;
-  margin-right: 0;
+  width: 90%;
+  margin: 0 auto;
 }
